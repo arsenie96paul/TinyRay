@@ -1,0 +1,9 @@
+﻿  Scene.cpp
+\\ctstudent2\studentusers\100369891\desktop\tinyray\tinyray\material.h(47): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+\\ctstudent2\studentusers\100369891\desktop\tinyray\tinyray\material.h(48): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+\\ctstudent2\studentusers\100369891\desktop\tinyray\tinyray\scene.cpp(44): warning C4305: 'argument': truncation from 'double' to 'float'
+\\ctstudent2\studentusers\100369891\desktop\tinyray\tinyray\scene.cpp(55): warning C4305: 'argument': truncation from 'double' to 'float'
+\\ctstudent2\studentusers\100369891\desktop\tinyray\tinyray\scene.cpp(66): warning C4305: 'argument': truncation from 'double' to 'float'
+\\ctstudent2\studentusers\100369891\desktop\tinyray\tinyray\scene.cpp(134): warning C4305: 'argument': truncation from 'double' to 'float'
+  TinyRay.vcxproj -> \\ctstudent2\studentusers\100369891\Desktop\TinyRay\x64\Debug\TinyRay.exe
+  TinyRay.vcxproj -> \\ctstudent2\studentusers\100369891\Desktop\TinyRay\x64\Debug\TinyRay.pdb (Full PDB)

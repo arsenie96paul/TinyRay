@@ -1,0 +1,23 @@
+﻿  RayTracer.cpp
+c:\users\clau\desktop\tinyray\tinyray\Material.h(47): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\clau\desktop\tinyray\tinyray\Material.h(48): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+RayTracer.cpp(33): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+RayTracer.cpp(81): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+RayTracer.cpp(83): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+RayTracer.cpp(85): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+RayTracer.cpp(103): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+RayTracer.cpp(105): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+RayTracer.cpp(107): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+RayTracer.cpp(151): warning C4101: 'prim': unreferenced local variable
+RayTracer.cpp(231): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+RayTracer.cpp(232): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+RayTracer.cpp(233): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+RayTracer.cpp(237): warning C4305: 'argument': truncation from 'double' to 'float'
+RayTracer.cpp(271): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Generating code
+  22 of 401 functions ( 5.5%) were compiled, the rest were copied from previous compilation.
+    1 functions were new in current compilation
+    17 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  TinyRay.vcxproj -> C:\Users\clau\Desktop\TinyRay\x64\Release\TinyRay.exe
+  TinyRay.vcxproj -> C:\Users\clau\Desktop\TinyRay\x64\Release\TinyRay.pdb (Full PDB)
